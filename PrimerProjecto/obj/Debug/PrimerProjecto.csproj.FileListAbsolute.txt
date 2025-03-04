@@ -5,3 +5,10 @@ C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.As
 C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.CoreCompileInputs.cache
 C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.exe
 C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.pdb
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\bin\Debug\PrimerProjecto.exe.config
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\bin\Debug\PrimerProjecto.exe
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\bin\Debug\PrimerProjecto.pdb
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.AssemblyReference.cache
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.CoreCompileInputs.cache
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\obj\Debug\PrimerProjecto.exe
+C:\Users\gutierdu\Repositorios\Csharp\PrimerProjecto\obj\Debug\PrimerProjecto.pdb
