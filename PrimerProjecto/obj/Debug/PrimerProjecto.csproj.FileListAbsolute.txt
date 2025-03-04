@@ -1,0 +1,7 @@
+C:\Users\gutierdu\Repositorios\PrimerProjecto\bin\Debug\PrimerProjecto.exe.config
+C:\Users\gutierdu\Repositorios\PrimerProjecto\bin\Debug\PrimerProjecto.exe
+C:\Users\gutierdu\Repositorios\PrimerProjecto\bin\Debug\PrimerProjecto.pdb
+C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.AssemblyReference.cache
+C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.csproj.CoreCompileInputs.cache
+C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.exe
+C:\Users\gutierdu\Repositorios\PrimerProjecto\obj\Debug\PrimerProjecto.pdb
